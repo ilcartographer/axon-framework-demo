@@ -1,2 +1,2 @@
-# basic-microservices
-Basic Spring Boot microservices implementations, based on code from https://dzone.com/articles/spring-boot-creating
+# axon-framework-demo
+Demo of Axon CQRS framework, based on webinar series at https://www.youtube.com/watch?v=s2zH7BsqtAk
